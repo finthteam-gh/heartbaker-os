@@ -2,13 +2,15 @@
 
 ## Purpose
 
-This repository is the working system for the Heartbaker brand project. It is mostly Markdown. No build or test commands exist yet.
+This repository is the working system for Heartbaker, a premium bakery producer in Thailand owned and run by Jere. It is a Markdown project. No build or test commands exist yet.
 
 ## Before you start
 
 - Read `docs/README.md` for the structure and `docs/decision-log.md` for settled decisions.
+- Product facts, prices and audience live in `docs/brand/positioning.md`. Label and typography rules live in `docs/brand/identity.md`.
 - Do not invent brand facts. If a fact is missing, ask, or add it to the open items in `README.md`.
 - File new documents in the section whose purpose they serve. Do not add to the repository root.
+- The target audience in the brand file is intended and not validated. Keep that label wherever it appears.
 
 ## Writing rules
 
@@ -19,6 +21,6 @@ This repository is the working system for the Heartbaker brand project. It is mo
 
 ## Working rules
 
-- Change only what the task needs.
-- Record each new decision in `docs/decision-log.md` with its date and reason.
+- Limit changes to what the task needs.
+- Jere approves all brand decisions. Record each new decision in `docs/decision-log.md` with its date and reason.
 - Do not open a pull request unless asked.

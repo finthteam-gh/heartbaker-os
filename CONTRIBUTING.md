@@ -21,4 +21,4 @@
 
 ## Review
 
-Brand and content changes need sign-off from the named approvers once they are recorded in `README.md`.
+Jere signs off all brand and content changes.
