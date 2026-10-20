@@ -7,6 +7,7 @@ Source: Jere, 20 Oct 2026.
 | LINE and personal contacts | About 90% | Most of it is direct sales by Jere's sister |
 | Instagram | Not supplied | |
 | Facebook | Not supplied | |
+| Café (shop) | Not supplied | Part of Heartbaker. Hours and menu to confirm in `docs/brand/facts.md`. |
 
 ## Paid ads
 

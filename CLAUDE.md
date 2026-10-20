@@ -2,12 +2,14 @@
 
 ## Purpose
 
-This repository is the working system for Heartbaker, a premium bakery producer in Thailand owned and run by Jere. It is a Markdown project. No build or test commands exist yet.
+This repository is the working system for Heartbaker, a premium bakery producer with a café in Thailand, owned and run by Jere. It is a Markdown project with one small tool, `tools/post-maker/`, written in plain HTML and JavaScript with no build step. To run it, serve the repo root with `python3 -m http.server 8765` and open `/tools/post-maker/`.
 
 ## Before you start
 
 - Read `docs/README.md` for the structure and `docs/decision-log.md` for settled decisions.
 - Product facts, prices and audience live in `docs/brand/positioning.md`. Label and typography rules live in `docs/brand/identity.md`.
+- Social post work follows `docs/workflows/social-post-workflow.md`. Facts that go on posts live in `docs/brand/facts.md`. Do not use a fact marked "to confirm".
+- An AI image generator never draws the logo, brand text or QR codes. Place the real files instead.
 - Do not invent brand facts. If a fact is missing, ask, or add it to the open items in `README.md`.
 - File new documents in the section whose purpose they serve. Do not add to the repository root.
 - The target audience in the brand file is intended and not validated. Keep that label wherever it appears.
